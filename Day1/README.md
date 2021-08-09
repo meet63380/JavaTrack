@@ -1,6 +1,5 @@
 # JavaTrack
 ## Day 1 Activities
-![](day1.png)
 Day 1: Activity 1
 
 Problem 1:

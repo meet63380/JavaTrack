@@ -1,2 +1,2 @@
 # JavaTrack
-This is the repor for java track activity submission
+This is the repo for java track activity submission
